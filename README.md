@@ -1,4 +1,3 @@
 # demo
-demo to earn github
 
-first step in Github
+demo to earn github
